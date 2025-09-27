@@ -1,3 +1,3 @@
 # GitMemeHallOfFame
 
-This is the change to branch feature 1
+This is the change combine feature 1 and feature 2
